@@ -1,1 +1,1 @@
-Basic calculator created with C# and Windows Forms
+Basic calculator created with C#/.NET and Windows Forms
